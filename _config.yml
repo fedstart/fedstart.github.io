@@ -1,0 +1,12 @@
+# Site settings
+title: FedStart
+email: your-email@domain.com
+description: "Start with Fedora"
+baseurl: ""
+url: "https://fedstart.github.io/"
+twitter_username: jekyllrb
+github_username:  fedstart
+
+# Build settings
+markdown: kramdown
+permalink: pretty
